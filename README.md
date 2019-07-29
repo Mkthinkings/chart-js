@@ -1,14 +1,14 @@
 Requirement:
 
-Text editor like sublime,visual studio code etc.(anyone of ypur choice)
+->Text editor like sublime,visual studio code etc.(anyone of ypur choice)
 
-web browser like chrome
+->web browser like chrome
 
-XAMPP or MAMP(PHP development enviorment on your localhost)
+->XAMPP or MAMP(PHP development enviorment on your localhost)
 
-MySQL
+->MySQL
 
-ChartJS
+->ChartJS
 
-jQuery
+->jQuery
 
